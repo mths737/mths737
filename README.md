@@ -9,7 +9,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com 5 anos de experiênc
 ## Habilidades
 
 - **Linguagens de Programação:** Python, SQL
-- **Ferramentas de Análise de Dados:** Power BI, Excel, Pandas, SciKit Learn, Matplotlib
+- **Ferramentas de Análise de Dados:** Power BI, Excel, Pandas, SciKit Learn, Matplotlib, 
+- **Ferramentas de Desenvolvimento Web:** Django
 
 ## Contato
 
